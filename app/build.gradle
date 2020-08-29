@@ -19,6 +19,14 @@ apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
 
 android {
+    signingConfigs {
+        itpn {
+            storeFile file('D:\\APKey\\iTypenDev.jks')
+            storePassword 'Chenwang2000511'
+            keyAlias 'key0'
+            keyPassword 'Chenwang2000511'
+        }
+    }
     lintOptions {
         abortOnError false
         checkReleaseBuilds true
@@ -91,4 +99,10 @@ dependencies {
     }
     // TODO: Remove comment marks to enable
     // implementation Libs.oneSignal
+}
+
+dependencies {
+    implementation('dev.jahir:Blueprint:2.1.2@aar') {
+        transitive = true
+    }
 }

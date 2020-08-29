@@ -1,4 +1,4 @@
-package dev.jahir.blueprint.app
+package app.itypen.mlight
 
 /* TODO: Remove comment marks to enable
 import com.onesignal.NotificationExtenderService

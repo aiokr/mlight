@@ -1,4 +1,4 @@
-package dev.jahir.blueprint.app
+package app.itypen.mlight
 
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity
@@ -17,8 +17,8 @@ class MainActivity : BottomNavigationBlueprintActivity() {
     override val billingEnabled = true
 
     override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = true
-    override fun checkStores(): Boolean = true
+    override fun checkLPF(): Boolean = false
+    override fun checkStores(): Boolean = false
     override val isDebug: Boolean = BuildConfig.DEBUG
 
     /**
@@ -35,7 +35,8 @@ class MainActivity : BottomNavigationBlueprintActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
+        // return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
+        return null
     }
 
     override fun defaultTheme(): Int = R.style.MyApp_Default
