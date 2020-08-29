@@ -34,11 +34,11 @@
     <bool name="includes_adaptive_icons">false</bool>
 
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email">someone@email.com</string>
+    <string name="email">aiokr@outlook.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">Blueprint</string>
-    <string name="request_title">Blueprint Icon Request</string>
+    <string name="email_subject">轻质</string>
+    <string name="request_title">轻质图标包反馈</string>
 
     <!--
     1. Set the max amount of apps to request.
@@ -57,7 +57,7 @@
     with the max apps limit.
     -->
     <integer name="max_apps_to_request">-1</integer>
-    <integer name="time_limit_in_minutes">0</integer>
+    <integer name="time_limit_in_minutes">10</integer>
 
     <!--
         Host must also be filled in first. An app API key from Arctic Request Manager.
