@@ -1,48 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <!-- 交管12123 -->
+    <item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}" drawable="___tmri_12123"/>
 
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="people" />
+    <!-- 京东 -->
+    <item component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}" drawable="___jd"/>
 
-    <item
-        component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="people" />
+    <!-- Keep -->
+    <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="keep"/>
 
-    <item
-        component="ComponentInfo{com.android.contacts/}"
-        drawable="people" />
+    <!-- 云闪付 -->
+    <item component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}" drawable="quick_pass"/>
 
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="" />
+    <!-- Weibo -->
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="wei_bo"/>
 
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="something" />
+    <!-- WeiboIntl -->
+    <item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo___intl"/>
 
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="icon" />
+    <!-- To Do -->
+    <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="microsoft_to_do"/>
 
-    <item
-        component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="phone" />
+    <!-- Recorder -->
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="recorder"/>
 
-    <item
-        component="ComponentInfo{com.android.contacts/}"
-        drawable="contacts" />
+    <!-- Screen Recorder -->
+    <item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="screen_recorder"/>
 
-    <item
-        component="ComponentInfo{}"
-        drawable="cell" />
+    <!-- Mi Remote -->
+    <item component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}" drawable="mi_remote"/>
 
-    <item
-        component="ComponentInfo{/}"
-        drawable="an_icon" />
+    <!-- Scanner -->
+    <item component="ComponentInfo{com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity}" drawable="scanner"/>
 
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="" />
+    <!-- 手机淘宝 -->
+    <item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}" drawable="taobao"/>
+
+    <!-- Health -->
+    <item component="ComponentInfo{com.mi.health/com.mi.health.home.HomeActivity}" drawable="mi_health"/>
+
+    <!-- 铁路12306 -->
+    <item component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}" drawable="___cr12306"/>
+
+    <!-- Music -->
+    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="music"/>
+
+    <!-- 小米商城 -->
+    <item component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}" drawable="mi_store"/>
+
+    <!-- 猫耳FM -->
+    <item component="ComponentInfo{cn.missevan/cn.missevan.activity.SplashActivity}" drawable="missevan"/>
+
+    <!-- Mi Wallet -->
+    <item component="ComponentInfo{com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity}" drawable="mi_wallet"/>
+
+    <!-- Pure Writer -->
+    <item component="ComponentInfo{com.drakeet.purewriter/com.drakeet.purewriter.WriterActivity}" drawable="pure_writer"/>
+
+    <!-- SIM Toolkit -->
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="___sim_toolkit"/>
+
+    <!-- WPS Office -->
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="___wps_office"/>
+
+    <!-- 小米有品 -->
+    <item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}" drawable="mi_youpin"/>
+
+    <!-- MI APP Store -->
+    <item component="ComponentInfo{com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity}" drawable="mi_app_store"/>
+
+    <!-- QQ音乐 -->
+    <item component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}" drawable="___qq_music"/>
+
+    <!-- 知乎 -->
+    <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="zhihu"/>
+
+    <!-- IT之家 -->
+    <item component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" drawable="___it_home"/>
+
+    <!-- QQ -->
+    <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="___qq"/>
+
+    <!-- WeChat -->
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="we__chat"/>
+
+    <!-- 爱南宁 -->
+    <item component="ComponentInfo{com.cloudbae.lovenanning/com.cloudbae.lovenanning.login.view.WelComeActivity}" drawable="love_nanning"/>
+
+    <!-- Apple Music -->
+    <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music"/>
+
+    <!-- 中国人寿寿险 -->
+    <item component="ComponentInfo{com.chinalife.ebz/com.clicbase.activity.SplashActivity}" drawable="chinalife"/>
+
+    <!-- 中国农业银行 -->
+    <item component="ComponentInfo{com.android.bankabc/com.alipay.mobile.quinox.LauncherActivity}" drawable="___abc"/>
+
+    <!-- 中国银行 -->
+    <item component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}" drawable="___boc"/>
+
+    <!-- 招商银行 -->
+    <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.container.PBMainActivity}" drawable="___cmb"/>
+
+    <!-- 支付宝 -->
+    <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay"/>
 
 </resources>

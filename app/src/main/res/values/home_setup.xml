@@ -31,19 +31,19 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>IconShowcase</item>
-        <item>An App</item>
+        <item>支付宝</item>
+        <item>iTypen.APP 从镜头里看世界</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>It is the old version of this awesome dashboard</item>
-        <item>This is an app</item>
+        <item>支付宝捐赠：在浏览器中打开链接。你的捐赠能让我更快地绘制更多图标。</item>
+        <item>我的个人独立博客</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>ic_na_launcher</item>
-        <item>ic_na_launcher</item>
+        <item>alipay</item>
+        <item>itypen</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/jahirfiquitiva/Blueprint</item>
-        <item>https://play.google.com/store/apps/details?id=com.android.settings</item>
+        <item>https://qr.alipay.com/fkx11911hiui4inarsikc7b</item>
+        <item>https://itypen.app</item>
     </string-array>
 </resources>

@@ -3,50 +3,131 @@
 
     <version>1</version>
 
-    <category title="Latest" />
+    <category title="全部图标" />
+    <!-- Screen Recorder -->
+    <item drawable="screen_recorder"/>
+    <!-- Recorder -->
+    <item drawable="recorder"/>
+    <!-- To Do -->
+    <item drawable="microsoft_to_do"/>
+    <!-- Weibo -->
+    <item drawable="wei_bo"/>
+    <!-- WeiboIntl -->
+    <item drawable="weibo___intl"/>
+    <!-- 云闪付 -->
+    <item drawable="quick_pass"/>
+    <!-- Mi Remote -->
+    <item drawable="mi_remote"/>
+    <!-- Scanner -->
+    <item drawable="scanner"/>
+    <!-- 手机淘宝 -->
+    <item drawable="taobao"/>
+    <!-- Health -->
+    <item drawable="mi_health"/>
+    <!-- 铁路12306 -->
+    <item drawable="___cr12306"/>
+    <!-- 小米商城 -->
+    <item drawable="mi_store"/>
+    <!-- 猫耳FM -->
+    <item drawable="missevan"/>
+    <!-- Mi Wallet -->
+    <item drawable="mi_wallet"/>
+    <!-- Pure Writer -->
+    <item drawable="pure_writer"/>
+    <!-- SIM Toolkit -->
+    <item drawable="___sim_toolkit"/>
+    <!-- WPS Office -->
+    <item drawable="___wps_office"/>
+    <!-- 小米有品 -->
+    <item drawable="mi_youpin"/>
+    <!-- MI APP Store -->
+    <item drawable="mi_app_store"/>
+    <!-- QQ音乐 -->
+    <item drawable="___qq_music"/>
+    <!-- 知乎 -->
+    <item drawable="zhihu"/>
+    <!-- IT之家 -->
+    <item drawable="___it_home"/>
+    <!-- QQ -->
+    <item drawable="___qq"/>
+    <!-- WeChat -->
+    <item drawable="we__chat"/>
+    <!-- 爱南宁 -->
+    <item drawable="love_nanning"/>
+    <!-- Apple Music -->
+    <item drawable="apple_music"/>
+    <!-- 中国人寿寿险 -->
+    <item drawable="chinalife"/>
+    <!-- 中国农业银行 -->
+    <item drawable="___abc"/>
+    <!-- 中国银行 -->
+    <item drawable="___boc"/>
+    <!-- 招商银行 -->
+    <item drawable="___cmb"/>
+    <!-- 支付宝 -->
+    <item drawable="alipay"/>
+    <!-- Music -->
+    <item drawable="music"/>
+    <!-- Keep -->
+    <item drawable="keep"/>
+    <!-- 京东 -->
+    <item drawable="___jd"/>
+    <!-- 交管12123 -->
+    <item drawable="___tmri_12123"/>
 
-    <category title="System" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <category title="系统应用" />
+    <item drawable="scanner"/>
+    <item drawable="mi_wallet"/>
+    <item drawable="___sim_toolkit"/>
+    <item drawable="mi_app_store"/>
+    <item drawable="music"/>
+    <item drawable="mi_health"/>
+    <item drawable="mi_remote"/>
+    <item drawable="screen_recorder"/>
+    <item drawable="recorder"/>
 
-    <category title="Google Apps" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <category title="聊天社交" />
+    <item drawable="___qq"/>
+    <item drawable="we__chat"/>
+    <item drawable="wei_bo"/>
+    <item drawable="weibo___intl"/>
 
-    <category title="Games" />
-    <item drawable="a_better_camera" />
-    <item drawable="adaway" />
-    <item drawable="adobe_creative_cloud" />
-    <item drawable="afterfocus" />
+    <category title="新闻资讯" />
+    <item drawable="___it_home"/>
+    <item drawable="zhihu"/>
+    <item drawable="wei_bo"/>
+    <item drawable="weibo___intl"/>
 
-    <category title="Drawers" />
-    <item drawable="a_better_camera" />
-    <item drawable="aa" />
-    <item drawable="acdisplay" />
-    <item drawable="afterlight" />
-    <item drawable="airdroid" />
-    <item drawable="alarmpad" />
+    <category title="办公效率" />
+    <item drawable="___wps_office"/>
+    <item drawable="pure_writer"/>
+    <item drawable="microsoft_to_do"/>
 
-    <category title="All" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
+    <category title="生活服务" />
+    <item drawable="keep"/>
+    <item drawable="love_nanning" />
+    <item drawable="___cr12306"/>
+    <item drawable="taobao"/>
+    <item drawable="___jd"/>
+    <item drawable="quick_pass"/>
+    <item drawable="alipay"/>
+    <item drawable="mi_youpin"/>
+    <item drawable="___tmri_12123"/>
+
+    <category title="摄影摄像" />
+
+    <category title="影音娱乐" />
+    <item drawable="___qq_music"/>
+    <item drawable="apple_music"/>
+    <item drawable="missevan"/>
+    <item drawable="music"/>
+
+    <category title="金融商业" />
+    <item drawable="chinalife"/>
+    <item drawable="___abc"/>
+    <item drawable="___boc"/>
+    <item drawable="___cmb"/>
+    <item drawable="alipay"/>
+    <item drawable="quick_pass"/>
 
 </resources>

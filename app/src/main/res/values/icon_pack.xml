@@ -3,21 +3,18 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>adaptive_one</item>
-        <item>adaptive_two</item>
-        <item>adaptive_three</item>
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
+        <item>apple_music</item>
+        <item>love_nanning</item>
+        <item>missevan</item>
+        <item>___sim_toolkit</item>
+        <item>___boc</item>
+        <item>___cmb</item>
+        <item>___abc</item>
+        <item>chinalife</item>
+        <item>alipay</item>
+        <item>we__chat</item>
+        <item>___qq_music</item>
+        <item>neteasy_music</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -26,80 +23,102 @@
 
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
-        <item>all</item>
-        <item>adaptive</item>
-        <item>amber</item>
-        <item>blue</item>
-        <item>purple</item>
-        <item>red</item>
-        <item>circles</item>
-        <item>rectangles</item>
-        <item>squares</item>
+        <item>全部图标</item>
+        <item>系统应用</item>
+        <item>聊天社交</item>
+        <item>金融保险</item>
+        <item>城市服务</item>
+        <item>新闻资讯</item>
+        <item>娱乐影音</item>
+        <item>办公效率</item>
     </string-array>
 
-    <string-array name="all">
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
+    <!--图标集合--><!--图标集合--><!--图标集合-->
+    <!--图标集合--><!--图标集合--><!--图标集合-->
+
+    <string-array name="全部图标">
+        <!--系统-->
+        <item>apple_music</item>
+        <item>mi_wallet</item>
+        <item>mi_app_store</item>
+        <item>___sim_toolkit</item>
+
+        <!--金融保险-->
+        <item>___boc</item>
+        <item>___cmb</item>
+        <item>___abc</item>
+        <item>chinalife</item>
+        <item>alipay</item>
+
+        <!--城市服务-->
+        <item>love_nanning</item>
+
+        <!--聊天社交-->
+        <item>___qq</item>
+        <item>we__chat</item>
+
+        <!--新闻资讯-->
+        <item>___it_home</item>
+        <item>zhihu</item>
+
+        <!--娱乐影音-->
+        <item>___qq_music</item>
+        <item>netease_music</item>
+        <item>missevan</item>
+
+        <!--购物-->
+        <item>mi_youpin</item>
+
+        <!--办公效率-->
+        <item>___wps_office</item>
+        <item>pure_writer</item>
+
     </string-array>
 
-    <string-array name="adaptive">
-        <item>adaptive_one</item>
-        <item>adaptive_two</item>
-        <item>adaptive_three</item>
+    <!--图标分类--><!--图标分类--><!--图标分类-->
+    <!--图标分类--><!--图标分类--><!--图标分类-->
+
+    <string-array name="系统应用">
+        <item>apple_music</item>
+        <item>mi_wallet</item>
+        <item>mi_app_store</item>
+        <item>___sim_toolkit</item>
     </string-array>
 
-    <string-array name="amber">
-        <item>amber_circle</item>
-        <item>amber_rectangle</item>
-        <item>amber_square</item>
+    <string-array name="办公效率">
+        <item>___wps_office</item>
+        <item>pure_writer</item>
     </string-array>
 
-    <string-array name="blue">
-        <item>blue_circle</item>
-        <item>blue_rectangle</item>
-        <item>blue_square</item>
+    <string-array name="购物">
+        <item>mi_youpin</item>
     </string-array>
 
-    <string-array name="purple">
-        <item>purple_circle</item>
-        <item>purple_rectangle</item>
-        <item>purple_square</item>
+    <string-array name="娱乐影音">
+        <item>___qq_music</item>
+        <item>netease_music</item>
     </string-array>
 
-    <string-array name="red">
-        <item>red_circle</item>
-        <item>red_rectangle</item>
-        <item>red_square</item>
+    <string-array name="城市服务">
+        <item>love_nanning</item>
     </string-array>
 
-    <string-array name="circles">
-        <item>amber_circle</item>
-        <item>blue_circle</item>
-        <item>purple_circle</item>
-        <item>red_circle</item>
+    <string-array name="聊天社交">
+        <item>___qq</item>
+        <item>we__chat</item>
     </string-array>
 
-    <string-array name="rectangles">
-        <item>amber_rectangle</item>
-        <item>blue_rectangle</item>
-        <item>purple_rectangle</item>
-        <item>red_rectangle</item>
+    <string-array name="新闻资讯">
+        <item>___it_home</item>
+        <item>zhihu</item>
     </string-array>
 
-    <string-array name="squares">
-        <item>amber_square</item>
-        <item>blue_square</item>
-        <item>purple_square</item>
-        <item>red_square</item>
+    <string-array name="金融保险">
+        <item>___boc</item>
+        <item>___cmb</item>
+        <item>___abc</item>
+        <item>chinalife</item>
+        <item>alipay</item>
     </string-array>
+
 </resources>
