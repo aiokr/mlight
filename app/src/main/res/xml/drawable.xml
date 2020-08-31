@@ -32,6 +32,8 @@
     <item drawable="missevan"/>
     <!-- Mi Wallet -->
     <item drawable="mi_wallet"/>
+    <!-- Wallet -->
+    <item drawable="wallet"/>
     <!-- Pure Writer -->
     <item drawable="pure_writer"/>
     <!-- SIM Toolkit -->
@@ -72,6 +74,8 @@
     <item drawable="keep"/>
     <!-- 京东 -->
     <item drawable="___jd"/>
+    <!-- 京东金融 -->
+    <item drawable="___jd_j__r"/>
     <!-- 交管12123 -->
     <item drawable="___tmri_12123"/>
     <!-- Notes -->
@@ -123,14 +127,37 @@
     <item drawable="feedback"/>
     <!-- 一加社区 -->
     <item drawable="one__plus_b___b___s"/>
-    <!-- Wallet -->
-    <item drawable="wallet"/>
     <!-- 一个木函 -->
     <item drawable="wooden_letter"/>
-    <!-- 京东金融 -->
-    <item drawable="___jd_j__r"/>
+    <!-- 滴滴出行 -->
+    <item drawable="___didi"/>
+    <item drawable="___didi_2"/>
+    <!-- 钉钉 -->
+    <item drawable="ding_talk"/>
+    <!-- 酷安 -->
+    <item drawable="cool___apk"/>
+    <!-- Mi AI 小爱同学 -->
+    <item drawable="mi_ai"/>
+    <!-- 拼多多 -->
+    <item drawable="___pdd"/>
+    <!-- 和平精英 -->
+    <item drawable="___pubg_c___n"/>
+    <!-- 哈啰出行 -->
+    <item drawable="hello_bike"/>
+    <!-- 学习强国 -->
+    <item drawable="xuexi"/>
+    <!-- 学习通 -->
+    <item drawable="chaoxing"/>
+    <!-- 彩云天气 -->
+    <item drawable="nowcasting"/>
+    <!-- 斗鱼 -->
+    <item drawable="douyu"/>
+    <!-- 王者荣耀 -->
+    <item drawable="___qq_pvp"/>
+    <!-- 钱迹 -->
+    <item drawable="qianji"/>
     
-    <category title="Update 200901" />
+    <category title="Update 200831" />
     <item drawable="feedback"/>
     <item drawable="notes"/>
     <item drawable="mi_home"/>
@@ -160,6 +187,19 @@
     <item drawable="wallet"/>
     <item drawable="wooden_letter"/>
     <item drawable="___jd_j__r"/>
+    <item drawable="___didi"/>
+    <item drawable="___didi_2"/>
+    <item drawable="ding_talk"/>
+    <item drawable="cool___apk"/>
+    <item drawable="mi_ai"/>
+    <item drawable="___pdd"/>
+    <item drawable="hello_bike"/>
+    <item drawable="xuexi"/>
+    <item drawable="chaoxing"/>
+    <item drawable="nowcasting"/>
+    <item drawable="douyu"/>
+    <item drawable="___qq_pvp"/>
+    <item drawable="qianji"/>
 
     <category title="系统应用" />
     <item drawable="feedback"/>
@@ -188,12 +228,15 @@
     <item drawable="security"/>
     <item drawable="file_manager"/>
     <item drawable="wallet"/>
+    <item drawable="mi_ai"/>
 
     <category title="聊天社交" />
     <item drawable="___qq"/>
     <item drawable="we__chat"/>
     <item drawable="weibo"/>
     <item drawable="weibo___intl"/>
+    <item drawable="ding_talk"/>
+    <item drawable="cool___apk"/>
 
     <category title="新闻资讯" />
     <item drawable="___it_home"/>
@@ -206,6 +249,13 @@
     <item drawable="pure_writer"/>
     <item drawable="microsoft_to_do"/>
     <item drawable="wooden_letter"/>
+    <item drawable="ding_talk"/>
+
+    <category title="工具学习" />
+    <item drawable="cool___apk"/>
+    <item drawable="qianji"/>
+    <item drawable="xuexi"/>
+    <item drawable="chaoxing"/>
 
     <category title="生活服务" />
     <item drawable="keep"/>
@@ -219,6 +269,12 @@
     <item drawable="___tmri_12123"/>
     <item drawable="mi_home"/>
     <item drawable="suanya"/>
+    <item drawable="___didi"/>
+    <item drawable="___didi_2"/>
+    <item drawable="___pdd"/>
+    <item drawable="hello_bike"/>
+    <item drawable="nowcasting"/>
+    <item drawable="qianji"/>
 
     <category title="摄影摄像" />
 
@@ -235,6 +291,9 @@
     <item drawable="_bilibili"/>
     <item drawable="_bilibili_2"/>
     <item drawable="___qcy"/>
+    <item drawable="___pubg_c___n"/>
+    <item drawable="douyu"/>
+    <item drawable="___qq_pvp"/>
 
     <category title="金融商业" />
     <item drawable="chinalife"/>
