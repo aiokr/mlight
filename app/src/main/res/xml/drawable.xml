@@ -156,50 +156,14 @@
     <item drawable="___qq_pvp"/>
     <!-- 钱迹 -->
     <item drawable="qianji"/>
-    
-    <category title="Update 200831" />
-    <item drawable="feedback"/>
-    <item drawable="notes"/>
-    <item drawable="mi_home"/>
-    <item drawable="mi_roaming"/>
-    <item drawable="mi_video"/>
-    <item drawable="mi_ai_speaker"/>
-    <item drawable="browser"/>
-    <item drawable="netease_cloud_music"/>
-    <item drawable="mi_video"/>
-    <item drawable="___qq_live"/>
-    <item drawable="tik__tok___cn"/>
-    <item drawable="compass"/>
-    <item drawable="themes"/>
-    <item drawable="downloads"/>
-    <item drawable="calculator"/>
-    <item drawable="contacts_and_dialer"/>
-    <item drawable="phone"/>
-    <item drawable="one__plus_market"/>
-    <item drawable="_bilibili"/>
-    <item drawable="_bilibili_2"/>
-    <item drawable="settings"/>
-    <item drawable="security"/>
-    <item drawable="file_manager"/>
-    <item drawable="suanya"/>
-    <item drawable="___qcy"/>
-    <item drawable="one__plus_b___b___s"/>
-    <item drawable="wallet"/>
-    <item drawable="wooden_letter"/>
-    <item drawable="___jd_j__r"/>
-    <item drawable="___didi"/>
-    <item drawable="___didi_2"/>
-    <item drawable="ding_talk"/>
-    <item drawable="cool___apk"/>
-    <item drawable="mi_ai"/>
-    <item drawable="___pdd"/>
-    <item drawable="hello_bike"/>
-    <item drawable="xuexi"/>
-    <item drawable="chaoxing"/>
-    <item drawable="nowcasting"/>
-    <item drawable="douyu"/>
-    <item drawable="___qq_pvp"/>
-    <item drawable="qianji"/>
+    <!-- Game 游戏 -->
+    <item drawable="game_center"/>
+    <!-- Messages -->
+    <item drawable="messages"/>
+
+    <category title="Update 200901" />
+    <item drawable="game_center"/>
+    <item drawable="messages"/>
 
     <category title="系统应用" />
     <item drawable="feedback"/>
@@ -229,6 +193,8 @@
     <item drawable="file_manager"/>
     <item drawable="wallet"/>
     <item drawable="mi_ai"/>
+    <item drawable="game_center"/>
+    <item drawable="messages"/>
 
     <category title="聊天社交" />
     <item drawable="___qq"/>
@@ -303,5 +269,49 @@
     <item drawable="alipay"/>
     <item drawable="quick_pass"/>
     <item drawable="___jd_j__r"/>
+
+    <category title="Update 200831" />
+    <item drawable="feedback"/>
+    <item drawable="notes"/>
+    <item drawable="mi_home"/>
+    <item drawable="mi_roaming"/>
+    <item drawable="mi_video"/>
+    <item drawable="mi_ai_speaker"/>
+    <item drawable="browser"/>
+    <item drawable="netease_cloud_music"/>
+    <item drawable="mi_video"/>
+    <item drawable="___qq_live"/>
+    <item drawable="tik__tok___cn"/>
+    <item drawable="compass"/>
+    <item drawable="themes"/>
+    <item drawable="downloads"/>
+    <item drawable="calculator"/>
+    <item drawable="contacts_and_dialer"/>
+    <item drawable="phone"/>
+    <item drawable="one__plus_market"/>
+    <item drawable="_bilibili"/>
+    <item drawable="_bilibili_2"/>
+    <item drawable="settings"/>
+    <item drawable="security"/>
+    <item drawable="file_manager"/>
+    <item drawable="suanya"/>
+    <item drawable="___qcy"/>
+    <item drawable="one__plus_b___b___s"/>
+    <item drawable="wallet"/>
+    <item drawable="wooden_letter"/>
+    <item drawable="___jd_j__r"/>
+    <item drawable="___didi"/>
+    <item drawable="___didi_2"/>
+    <item drawable="ding_talk"/>
+    <item drawable="cool___apk"/>
+    <item drawable="mi_ai"/>
+    <item drawable="___pdd"/>
+    <item drawable="hello_bike"/>
+    <item drawable="xuexi"/>
+    <item drawable="chaoxing"/>
+    <item drawable="nowcasting"/>
+    <item drawable="douyu"/>
+    <item drawable="___qq_pvp"/>
+    <item drawable="qianji"/>
 
 </resources>
