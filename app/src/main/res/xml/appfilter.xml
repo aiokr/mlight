@@ -1,5 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+
+    <!-- 京东金融 -->
+    <item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.main.MainActivity}" drawable="___jd_j__r"/>
+
+    <!-- 一个木函 -->
+    <item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="wooden_letter"/>
+
+    <!-- Wallet -->
+    <item component="ComponentInfo{com.finshell.wallet/com.nearme.wallet.SplashActivity}" drawable="wallet"/>
+
+    <!-- 美团民宿 -->
+    <item component="ComponentInfo{com.meituan.phoenix/com.meituan.phoenix.guide.SplashActivity}" drawable="meituan_phoenix"/>
+
+    <!-- Meituan 美团 -->
+    <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.MainActivity}" drawable="meituan"/>
+
+    <!-- 一加社区 -->
+    <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" drawable="one__plus_b___b___s"/>
+
+    <!-- Services Feedback -->
+    <item component="ComponentInfo{com.miui.miservice/com.miui.miservice.main.MainActivity}" drawable="feedback"/>
+
+    <!-- QCY -->
+    <item component="ComponentInfo{com.qcymall.earphonesetup/com.qcymall.earphonesetup.activity.FirstInstallActivity}" drawable="___qcy"/>
+
+    <!-- Messages -->
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="messages"/>
+
+    <!-- 12306智行火车票 -->
+    <item component="ComponentInfo{com.yipiao/com.zt.main.entrance.ZTLaunchActivity}" drawable="suanya"/>
+
+    <!-- File Manager 文件管理 -->
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="file_manager"/>
+
+    <!-- Security 安全中心 -->
+    <item component="ComponentInfo{com.miui.securitycenter/com.miui.securityscan.MainActivity}" drawable="security"/>
+
+    <!-- Settings 设置 -->
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings"/>
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="settings"/>
+
+    <!-- bilibili 哔哩哔哩 -->
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="_bilibili"/>
+
+    <!-- Contacts And Dialer 联系人 -->
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts_and_dialer"/>
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts_and_dialer"/>
+
+    <!-- Calculator 计算器 -->
+    <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator"/>
+
+    <!-- Downloads 下载 -->
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads"/>
+
+    <!-- Themes 主题 -->
+    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="themes"/>
+
+    <!-- 小爱音箱 -->
+    <item component="ComponentInfo{com.xiaomi.mico/com.xiaomi.mico.splash.SplashActivity}" drawable="mi_ai_speaker"/>
+
+    <!-- Compass 指南针 -->
+    <item component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}" drawable="compass"/>
+
+    <!-- Mi Video 小米视频 -->
+    <item component="ComponentInfo{com.miui.video/com.miui.video.feature.main.MainTabActivity}" drawable="mi_video"/>
+
+    <!-- 抖音短视频 -->
+    <item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tik__tok___cn"/>
+
+    <!-- 腾讯视频 -->
+    <item component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}" drawable="___qq_live"/>
+
+    <!-- Browser 浏览器 -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.launch.SplashActivity}" drawable="browser"/>
+    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="browser"/>
+
+    <!-- Mi Roaming -->
+    <item component="ComponentInfo{com.miui.virtualsim/com.miui.virtualsim.ui.MainActivity}" drawable="mi_roaming"/>
+
+    <!-- Mi Home -->
+    <item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}" drawable="mi_home"/>
+
+    <!-- Notes -->
+    <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="notes"/>
+    <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="notes"/>
+
+    <!-- 网易云音乐 -->
+    <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}" drawable="netease_cloud_music"/>
+
     <!-- 交管12123 -->
     <item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}" drawable="___tmri_12123"/>
 
@@ -13,7 +104,7 @@
     <item component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}" drawable="quick_pass"/>
 
     <!-- Weibo -->
-    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="wei_bo"/>
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo"/>
 
     <!-- WeiboIntl -->
     <item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo___intl"/>
@@ -21,8 +112,13 @@
     <!-- To Do -->
     <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="microsoft_to_do"/>
 
+    <!-- Phone -->
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="phone"/>
+
     <!-- Recorder -->
     <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="recorder"/>
+    <!-- Recorder -->
+    <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="recorder"/>
 
     <!-- Screen Recorder -->
     <item component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}" drawable="screen_recorder"/>
@@ -68,6 +164,9 @@
 
     <!-- MI APP Store -->
     <item component="ComponentInfo{com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity}" drawable="mi_app_store"/>
+
+    <!-- One Plus Market -->
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="one__plus_market"/>
 
     <!-- QQ音乐 -->
     <item component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}" drawable="___qq_music"/>

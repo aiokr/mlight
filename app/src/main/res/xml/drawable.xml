@@ -11,7 +11,7 @@
     <!-- To Do -->
     <item drawable="microsoft_to_do"/>
     <!-- Weibo -->
-    <item drawable="wei_bo"/>
+    <item drawable="weibo"/>
     <!-- WeiboIntl -->
     <item drawable="weibo___intl"/>
     <!-- 云闪付 -->
@@ -74,8 +74,95 @@
     <item drawable="___jd"/>
     <!-- 交管12123 -->
     <item drawable="___tmri_12123"/>
+    <!-- Notes -->
+    <item drawable="notes"/>
+    <!-- Mi Home -->
+    <item drawable="mi_home"/>
+    <!-- Mi Roaming -->
+    <item drawable="mi_roaming"/>
+    <!-- Browser -->
+    <item drawable="browser"/>
+    <!-- 腾讯视频 -->
+    <item drawable="___qq_live"/>
+    <!-- 抖音短视频 -->
+    <item drawable="tik__tok___cn"/>
+    <!-- Mi Video -->
+    <item drawable="mi_video"/>
+    <!-- Compass -->
+    <item drawable="compass"/>
+    <!-- 小爱音箱 -->
+    <item drawable="mi_ai_speaker"/>
+    <!-- Themes -->
+    <item drawable="themes"/>
+    <!-- Downloads -->
+    <item drawable="downloads"/>
+    <!-- Calculator -->
+    <item drawable="calculator"/>
+    <!-- Contacts And Dialer -->
+    <item drawable="contacts_and_dialer"/>
+    <!-- Phone -->
+    <item drawable="phone"/>
+    <!-- 网易云音乐 -->
+    <item drawable="netease_cloud_music"/>
+    <!-- One Plus Market -->
+    <item drawable="one__plus_market"/>
+    <!-- 哔哩哔哩 -->
+    <item drawable="_bilibili"/>
+    <item drawable="_bilibili_2"/>
+    <!-- Settings -->
+    <item drawable="settings"/>
+    <!-- Security -->
+    <item drawable="security"/>
+    <!-- File Manager -->
+    <item drawable="file_manager"/>
+    <!-- 12306智行火车票 -->
+    <item drawable="suanya"/>
+    <!-- QCY -->
+    <item drawable="___qcy"/>
+    <!-- Services Feedback -->
+    <item drawable="feedback"/>
+    <!-- 一加社区 -->
+    <item drawable="one__plus_b___b___s"/>
+    <!-- Wallet -->
+    <item drawable="wallet"/>
+    <!-- 一个木函 -->
+    <item drawable="wooden_letter"/>
+    <!-- 京东金融 -->
+    <item drawable="___jd_j__r"/>
+    
+    <category title="Update 200901" />
+    <item drawable="feedback"/>
+    <item drawable="notes"/>
+    <item drawable="mi_home"/>
+    <item drawable="mi_roaming"/>
+    <item drawable="mi_video"/>
+    <item drawable="mi_ai_speaker"/>
+    <item drawable="browser"/>
+    <item drawable="netease_cloud_music"/>
+    <item drawable="mi_video"/>
+    <item drawable="___qq_live"/>
+    <item drawable="tik__tok___cn"/>
+    <item drawable="compass"/>
+    <item drawable="themes"/>
+    <item drawable="downloads"/>
+    <item drawable="calculator"/>
+    <item drawable="contacts_and_dialer"/>
+    <item drawable="phone"/>
+    <item drawable="one__plus_market"/>
+    <item drawable="_bilibili"/>
+    <item drawable="_bilibili_2"/>
+    <item drawable="settings"/>
+    <item drawable="security"/>
+    <item drawable="file_manager"/>
+    <item drawable="suanya"/>
+    <item drawable="___qcy"/>
+    <item drawable="one__plus_b___b___s"/>
+    <item drawable="wallet"/>
+    <item drawable="wooden_letter"/>
+    <item drawable="___jd_j__r"/>
 
     <category title="系统应用" />
+    <item drawable="feedback"/>
     <item drawable="scanner"/>
     <item drawable="mi_wallet"/>
     <item drawable="___sim_toolkit"/>
@@ -85,23 +172,40 @@
     <item drawable="mi_remote"/>
     <item drawable="screen_recorder"/>
     <item drawable="recorder"/>
+    <item drawable="notes"/>
+    <item drawable="mi_roaming"/>
+    <item drawable="browser"/>
+    <item drawable="mi_video"/>
+    <item drawable="compass"/>
+    <item drawable="themes"/>
+    <item drawable="downloads"/>
+    <item drawable="calculator"/>
+    <item drawable="contacts_and_dialer"/>
+    <item drawable="phone"/>
+    <item drawable="one__plus_market"/>
+    <item drawable="one__plus_b___b___s"/>
+    <item drawable="settings"/>
+    <item drawable="security"/>
+    <item drawable="file_manager"/>
+    <item drawable="wallet"/>
 
     <category title="聊天社交" />
     <item drawable="___qq"/>
     <item drawable="we__chat"/>
-    <item drawable="wei_bo"/>
+    <item drawable="weibo"/>
     <item drawable="weibo___intl"/>
 
     <category title="新闻资讯" />
     <item drawable="___it_home"/>
     <item drawable="zhihu"/>
-    <item drawable="wei_bo"/>
+    <item drawable="weibo"/>
     <item drawable="weibo___intl"/>
 
     <category title="办公效率" />
     <item drawable="___wps_office"/>
     <item drawable="pure_writer"/>
     <item drawable="microsoft_to_do"/>
+    <item drawable="wooden_letter"/>
 
     <category title="生活服务" />
     <item drawable="keep"/>
@@ -113,14 +217,24 @@
     <item drawable="alipay"/>
     <item drawable="mi_youpin"/>
     <item drawable="___tmri_12123"/>
+    <item drawable="mi_home"/>
+    <item drawable="suanya"/>
 
     <category title="摄影摄像" />
 
     <category title="影音娱乐" />
+    <item drawable="___qq_live"/>
     <item drawable="___qq_music"/>
     <item drawable="apple_music"/>
+    <item drawable="netease_cloud_music"/>
     <item drawable="missevan"/>
     <item drawable="music"/>
+    <item drawable="tik__tok___cn"/>
+    <item drawable="mi_video"/>
+    <item drawable="mi_ai_speaker"/>
+    <item drawable="_bilibili"/>
+    <item drawable="_bilibili_2"/>
+    <item drawable="___qcy"/>
 
     <category title="金融商业" />
     <item drawable="chinalife"/>
@@ -129,5 +243,6 @@
     <item drawable="___cmb"/>
     <item drawable="alipay"/>
     <item drawable="quick_pass"/>
+    <item drawable="___jd_j__r"/>
 
 </resources>

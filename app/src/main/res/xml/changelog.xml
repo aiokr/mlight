@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="1.0.0 Release 200830" />
+    <version title="v1.0.2 Release 200901" />
+    <item text="更新哔哩哔哩、智行火车票等 18 枚图标，当前版本图标总数为 63" />
+    <version title="v1.0.1 Release 200901" />
+    <item text="更新米家、网易云音乐等 11 枚图标，当前版本图标总数为 45" />
+    <version title="v1.0.0 Release 200830" />
     <item text="创建 轻质 mLight 图标包项目" />
-    <item text="更新了若干图标" />
+    <item text="更新了知乎、支付宝等 35 枚图标，当前版本图标总数为 34" />
     <item text="" /> <!-- this one is empty and therefore ignored -->
 </resources>
