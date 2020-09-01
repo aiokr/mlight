@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
+    <!-- 携程旅行 -->
+    <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip"/>
+
+    <!-- 快手 Kuaishou -->
+    <item component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}" drawable="kuaishou"/>
+
+    <!-- 王者营地 -->
+    <item component="ComponentInfo{com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.SplashActivity}" drawable="___qq_pvp_gamehelper"/>
+
+    <!-- UC浏览器 -->
+    <item component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}" drawable="___uc_mobile"/>
+
+    <!-- 中国建设银行 -->
+    <item component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}" drawable="___ccb"/>
+
+    <!-- 中国工商银行 -->
+    <item component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}" drawable="___icbc"/>
+
+    <!-- Weather -->
+    <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="weather"/>
+
+    <!-- 中国移动 CMCC -->
+    <item component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity}" drawable="___cmcc"/>
+
+    <!-- 广州地铁 -->
+    <item component="ComponentInfo{com.infothinker.gzmetro/com.infothinker.gzmetro.ActivityAgent}" drawable="gzmetro"/>
+
+    <!-- Breeno Voice -->
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.launcher.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+
     <!-- Mail -->
     <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail"/>
 
