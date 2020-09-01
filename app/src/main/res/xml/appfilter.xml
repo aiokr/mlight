@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
+    <!-- Mail -->
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail"/>
+
+    <!-- Instagram -->
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
+
+    <!-- ClashR For Android -->
+    <item component="ComponentInfo{com.github.ClashRforAndroid/com.github.kr328.clash.MainActivity}" drawable="clashr_for_android"/>
+
+    <!-- Edge -->
+    <item component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}" drawable="edge"/>
+
+    <!-- DJI GO 4 -->
+    <item component="ComponentInfo{dji.go.v4/dji.pilot.main.activity.DJILauncherActivity}" drawable="___dji_g__o_4"/>
+
+    <!-- Camera -->
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera"/>
+
+    <!-- Gallery -->
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="gallery"/>
+    <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery"/>
+
+    <!-- Tips -->
+    <item component="ComponentInfo{com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity}" drawable="tips"/>
+
+    <!-- Samsung Flow -->
+    <item component="ComponentInfo{com.samsung.android.galaxycontinuity/com.samsung.android.galaxycontinuity.SplashActivity}" drawable="samsung_flow"/>
+
+    <!-- Translator 翻译 -->
+    <item component="ComponentInfo{com.sec.android.app.translator/com.sec.android.app.translator.MainActivity}" drawable="translator"/>
+
     <!-- Game 游戏 -->
     <item component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivityCN}" drawable="game_center"/>
+    <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="game_center"/>
 
     <!-- 钱迹 -->
     <item component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}" drawable="qianji"/>
@@ -70,7 +105,7 @@
     <!-- QCY -->
     <item component="ComponentInfo{com.qcymall.earphonesetup/com.qcymall.earphonesetup.activity.FirstInstallActivity}" drawable="___qcy"/>
 
-    <!-- Messages -->
+    <!-- Messages 短信 -->
     <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="messages"/>
     <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="messages"/>
     <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="messages"/>

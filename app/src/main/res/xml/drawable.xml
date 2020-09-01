@@ -160,10 +160,40 @@
     <item drawable="game_center"/>
     <!-- Messages -->
     <item drawable="messages"/>
+    <!-- Translator 翻译 -->
+    <item drawable="translator"/>
+    <!-- Samsung Flow -->
+    <item drawable="samsung_flow"/>
+    <!-- Tips -->
+    <item drawable="tips"/>
+    <!-- Gallery -->
+    <item drawable="gallery"/>
+    <!-- Camera -->
+    <item drawable="camera"/>
+    <!-- DJI GO 4 -->
+    <item drawable="___dji_g__o_4"/>
+    <!-- Edge -->
+    <item drawable="edge"/>
+    <!-- ClashR For Android -->
+    <item drawable="clashr_for_android"/>
+    <!-- Instagram -->
+    <item drawable="instagram"/>
+    <!-- Mail -->
+    <item drawable="mail"/>
 
     <category title="Update 200901" />
     <item drawable="game_center"/>
     <item drawable="messages"/>
+    <item drawable="translator"/>
+    <item drawable="samsung_flow"/>
+    <item drawable="tips"/>
+    <item drawable="gallery"/>
+    <item drawable="camera"/>
+    <item drawable="___dji_g__o_4"/>
+    <item drawable="edge"/>
+    <item drawable="clashr_for_android"/>
+    <item drawable="instagram"/>
+    <item drawable="mail"/>
 
     <category title="系统应用" />
     <item drawable="feedback"/>
@@ -195,6 +225,11 @@
     <item drawable="mi_ai"/>
     <item drawable="game_center"/>
     <item drawable="messages"/>
+    <item drawable="samsung_flow"/>
+    <item drawable="tips"/>
+    <item drawable="gallery"/>
+    <item drawable="camera"/>
+    <item drawable="mail"/>
 
     <category title="聊天社交" />
     <item drawable="___qq"/>
@@ -203,6 +238,7 @@
     <item drawable="weibo___intl"/>
     <item drawable="ding_talk"/>
     <item drawable="cool___apk"/>
+    <item drawable="instagram"/>
 
     <category title="新闻资讯" />
     <item drawable="___it_home"/>
@@ -216,12 +252,15 @@
     <item drawable="microsoft_to_do"/>
     <item drawable="wooden_letter"/>
     <item drawable="ding_talk"/>
+    <item drawable="translator"/>
+    <item drawable="edge"/>
 
     <category title="工具学习" />
     <item drawable="cool___apk"/>
     <item drawable="qianji"/>
     <item drawable="xuexi"/>
     <item drawable="chaoxing"/>
+    <item drawable="clashr_for_android"/>
 
     <category title="生活服务" />
     <item drawable="keep"/>
@@ -243,6 +282,10 @@
     <item drawable="qianji"/>
 
     <category title="摄影摄像" />
+    <item drawable="gallery"/>
+    <item drawable="camera"/>
+    <item drawable="___dji_g__o_4"/>
+    <item drawable="instagram"/>
 
     <category title="影音娱乐" />
     <item drawable="___qq_live"/>

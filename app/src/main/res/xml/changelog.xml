@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <version title="v1.0.4 Release 200901" />
+    <item text="更改图标适配申请电子邮件地址" />
+    <item text="更新游戏中心等图标，当前版本图标总数为 78" />
     <version title="v1.0.3 Release 200901" />
     <item text="更新哈啰出行、滴滴出行等 15 枚图标，当前版本图标总数为 78" />
     <item text="部分适配三星系统图标" />
@@ -11,5 +14,6 @@
     <version title="v1.0.0 Release 200830" />
     <item text="创建 轻质 mLight 图标包项目" />
     <item text="更新了知乎、支付宝等 34 枚图标，当前版本图标总数为 34" />
-    <item text="" /> <!-- this one is empty and therefore ignored -->
+    <item text="" />
+    <!-- this one is empty and therefore ignored -->
 </resources>
