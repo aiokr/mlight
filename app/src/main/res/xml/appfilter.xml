@@ -1,6 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
+    <!-- QQ浏览器 -->
+    <item component="ComponentInfo{com.tencent.mtt/com.tencent.mtt.SplashActivity}" drawable="___qq_browser"/>
+
+    <!-- 天猫精灵 -->
+    <item component="ComponentInfo{com.alibaba.ailabs.tg/com.alibaba.ailabs.tg.splash.WelcomeActivity}" drawable="ailabs"/>
+
+    <!-- ES File Explorer -->
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es_file_explorer"/>
+
+    <!-- 百度输入法 -->
+    <item component="ComponentInfo{com.baidu.input/com.baidu.input.ImeAppMainActivity}" drawable="baidu_input"/>
+
+    <!-- VSCO -->
+    <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="___vsco"/>
+
+    <!-- 爱奇艺HD -->
+    <item component="ComponentInfo{com.qiyi.video.pad/org.qiyi.android.video.MainActivity}" drawable="iqiyi"/>
+
+    <!-- 菜鸟裹裹 -->
+    <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="cainiao"/>
+
+    <!-- Drive -->
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive_2"/>
+    <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive"/>
+
+    <!-- Discord -->
+    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord"/>
+
+    <!-- Chrome -->
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome"/>
+
+    <!-- Assistant -->
+    <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="google_assistant"/>
+
+    <!-- APKPure -->
+    <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
+
+    <!-- 航旅纵横 -->
+    <item component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity}" drawable="umetrip"/>
+
+    <!-- Ice Box -->
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" drawable="ice_box"/>
+
+    <!-- Firefox -->
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox"/>
+
+    <!-- Magisk Manager -->
+    <item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk_manager"/>
+
+    <!-- 天翼云盘 -->
+    <item component="ComponentInfo{com.cn21.ecloud/com.cn21.ecloud.activity.login.StartActivity}" drawable="china_telecom_netdisk"/>
+
+    <!-- WiFi Master Key -->
+    <item component="ComponentInfo{com.snda.wifilocating/com.lantern.launcher.ui.MainActivity}" drawable="wifi_master_key"/>
+
+    <!-- TapTap -->
+    <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap"/>
+
+    <!-- SSR -->
+    <item component="ComponentInfo{in.zhaoj.shadowsocksr.blue_acl/com.github.shadowsocks.Shadowsocks}" drawable="ssr"/>
+
+    <!-- 夸克 -->
+    <item component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}" drawable="quark"/>
+
+    <!-- 高德地图 -->
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="amap"/>
+
+    <!-- 美团外卖 -->
+    <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="meituan_takeoutnew"/>
+
+    <!-- 百度网盘 -->
+    <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" drawable="baidu_netdisk"/>
+
+    <!-- 电信营业厅 -->
+    <item component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}" drawable="china_telecom"/>
+
+    <!-- 联通 手机营业厅 -->
+    <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="unicom"/>
+
+    <!-- Word -->
+    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="word"/>
+
+    <!-- Translate -->
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="g_translate"/>
+
+    <!-- ScanScan -->
+    <item component="ComponentInfo{com.uzero.baimiaog/com.uzero.baimiao.Hello}" drawable="scanscan"/>
+
+    <!-- PayPal -->
+    <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
+
+    <!-- PowerPoint -->
+    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="powerpoint"/>
+
+    <!-- OneNote -->
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote"/>
+
+    <!-- OneDrive -->
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
+
+    <!-- Google Play Store -->
+    <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store"/>
+
+    <!-- Ele Me -->
+    <item component="ComponentInfo{me.ele/me.ele.Launcher}" drawable="ele_me"/>
+
+    <!-- Adobe Acrobat -->
+    <item component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}" drawable="adobe_acrobat"/>
+
+    <!-- Excel -->
+    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="excel"/>
+
+    <!-- Clock -->
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock"/>
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock"/>
+
+    <!-- Calendar 日历 -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="calendar"/>
+    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+
     <!-- 携程旅行 -->
     <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip"/>
 
@@ -22,9 +143,11 @@
     <!-- Weather -->
     <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="weather"/>
     <item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="weather"/>
+    <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="weather"/>
 
     <!-- 中国移动 CMCC -->
     <item component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity}" drawable="___cmcc"/>
+    <item component="ComponentInfo{com.sinovatech.gxmobile.ui/com.sinovatech.gxmobile.ui.WelcomeActivity}" drawable="___cmcc"/>
 
     <!-- 广州地铁 -->
     <item component="ComponentInfo{com.infothinker.gzmetro/com.infothinker.gzmetro.ActivityAgent}" drawable="gzmetro"/>
@@ -47,10 +170,11 @@
     <!-- DJI GO 4 -->
     <item component="ComponentInfo{dji.go.v4/dji.pilot.main.activity.DJILauncherActivity}" drawable="___dji_g__o_4"/>
 
-    <!-- Camera -->
+    <!-- Camera 相机 -->
     <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera"/>
     <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera"/>
     <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="camera"/>
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera"/>
 
     <!-- Gallery -->
     <item component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}" drawable="gallery"/>
@@ -165,10 +289,12 @@
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts_and_dialer"/>
     <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts_and_dialer"/>
     <item component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}" drawable="contacts_and_dialer"/>
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="contacts_and_dialer"/>
 
     <!-- Calculator 计算器 -->
     <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="calculator"/>
     <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="calculator"/>
 
     <!-- Downloads 下载 -->
     <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="downloads"/>
@@ -195,6 +321,7 @@
     <!-- Browser 浏览器 -->
     <item component="ComponentInfo{com.android.browser/com.android.browser.launch.SplashActivity}" drawable="browser"/>
     <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="browser"/>
+    <item component="ComponentInfo{com.heytap.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
     <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser"/>
 
     <!-- Mi Roaming -->

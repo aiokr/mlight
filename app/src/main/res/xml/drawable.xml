@@ -204,33 +204,106 @@
     <item drawable="keyboard"/>
     <!-- 携程旅行 -->
     <item drawable="ctrip"/>
+    <!-- Calendar -->
+    <item drawable="calendar"/>
+    <!-- Excel -->
+    <item drawable="excel"/>
+    <!-- OneNote -->
+    <item drawable="onenote"/>
+    <!-- Clock -->
+    <item drawable="clock"/>
+    <!-- Adobe Acrobat -->
+    <item drawable="adobe_acrobat"/>
+    <!-- Ele Me -->
+    <item drawable="ele_me"/>
+    <!-- Google Play Store -->
+    <item drawable="google_play_store"/>
+    <!-- OneDrive -->
+    <item drawable="onedrive"/>
+    <!-- PayPal -->
+    <item drawable="paypal"/>
+    <!-- ScanScan -->
+    <item drawable="scanscan"/>
+    <!-- Translate -->
+    <item drawable="g_translate"/>
+    <!-- Word -->
+    <item drawable="word"/>
+    <!-- 手机营业厅 -->
+    <item drawable="unicom"/>
+    <!-- 电信营业厅 -->
+    <item drawable="china_telecom"/>
+    <!-- 百度网盘 -->
+    <item drawable="baidu_netdisk"/>
+    <!-- 美团外卖 -->
+    <item drawable="meituan_takeoutnew"/>
+    <!-- 高德地图 -->
+    <item drawable="amap"/>
+    <!-- PowerPoint -->
+    <item drawable="powerpoint"/>
+    <!-- 夸克 -->
+    <item drawable="quark"/>
+    <!-- SSR -->
+    <item drawable="ssr"/>
+    <!-- TapTap -->
+    <item drawable="taptap"/>
+    <!-- WiFi Master Key -->
+    <item drawable="wifi_master_key"/>
+    <!-- 天翼云盘 -->
+    <item drawable="china_telecom_netdisk"/>
+    <!-- Magisk Manager -->
+    <item drawable="magisk_manager"/>
+    <!-- Firefox -->
+    <item drawable="firefox"/>
+    <!-- Ice Box -->
+    <item drawable="ice_box"/>
+    <!-- 航旅纵横 -->
+    <item drawable="umetrip"/>
+    <!-- APKPure -->
+    <item drawable="apkpure"/>
+    <!-- Assistant -->
+    <item drawable="google_assistant"/>
+    <!-- Chrome -->
+    <item drawable="chrome"/>
+    <!-- Discord -->
+    <item drawable="discord"/>
+    <!-- Drive -->
+    <item drawable="google_drive_2"/>
+    <item drawable="google_drive"/>
+    <!-- 菜鸟裹裹 -->
+    <item drawable="cainiao"/>
+    <!-- 爱奇艺HD -->
+    <item drawable="iqiyi"/>
+    <!-- VSCO -->
+    <item drawable="___vsco"/>
+    <!-- 百度输入法 -->
+    <item drawable="baidu_input"/>
+    <!-- ES File Explorer -->
+    <item drawable="es_file_explorer"/>
+    <!-- 天猫精灵 -->
+    <item drawable="ailabs"/>
+    <!-- QQ浏览器 -->
+    <item drawable="___qq_browser"/>
 
-    <category title="Update 200901" />
-    <item drawable="game_center"/>
-    <item drawable="messages"/>
-    <item drawable="translator"/>
-    <item drawable="samsung_flow"/>
-    <item drawable="tips"/>
-    <item drawable="gallery"/>
-    <item drawable="camera"/>
-    <item drawable="___dji_g__o_4"/>
-    <item drawable="edge"/>
-    <item drawable="clashr_for_android"/>
-    <item drawable="instagram"/>
-    <item drawable="mail"/>
-    <item drawable="keyboard"/>
-    <item drawable="breeno_voice"/>
-    <item drawable="gzmetro"/>
-    <item drawable="cmcc"/>
-    <item drawable="weather"/>
-    <item drawable="___icbc"/>
-    <item drawable="___ccb"/>
-    <item drawable="___uc_mobile"/>
-    <item drawable="___qq_pvp_gamehelper"/>
-    <item drawable="kuaishou"/>
-    <item drawable="ctrip"/>
+    <category title="Update 200906" />
+    <item drawable="___qq_browser"/>
+    <item drawable="ailabs"/>
+    <item drawable="es_file_explorer"/>
+    <item drawable="baidu_input"/>
+    <item drawable="___vsco"/>
+    <item drawable="iqiyi"/>
+    <item drawable="cainiao"/>
+    <item drawable="google_drive_2"/>
+    <item drawable="google_drive"/>
+    <item drawable="discord"/>
+    <item drawable="chrome"/>
+    <item drawable="google_assistant"/>
+    <item drawable="apkpure"/>
 
     <category title="系统应用" />
+    <item drawable="google_assistant"/>
+    <item drawable="google_play_store"/>
+    <item drawable="clock"/>
+    <item drawable="calendar"/>
     <item drawable="feedback"/>
     <item drawable="scanner"/>
     <item drawable="mi_wallet"/>
@@ -271,6 +344,7 @@
     <item drawable="mi_store"/>
 
     <category title="聊天社交" />
+    <item drawable="discord"/>
     <item drawable="___qq"/>
     <item drawable="we__chat"/>
     <item drawable="weibo"/>
@@ -286,23 +360,55 @@
     <item drawable="weibo___intl"/>
 
     <category title="办公效率" />
+    <item drawable="google_drive_2"/>
+    <item drawable="google_drive"/>
+    <item drawable="word"/>
+    <item drawable="powerpoint"/>
+    <item drawable="excel"/>
+    <item drawable="onenote"/>
+    <item drawable="onedrive"/>
+    <item drawable="baidu_netdisk"/>
+    <item drawable="g_translate"/>
+    <item drawable="scanscan"/>
+    <item drawable="adobe_acrobat"/>
     <item drawable="___wps_office"/>
     <item drawable="pure_writer"/>
     <item drawable="microsoft_to_do"/>
     <item drawable="wooden_letter"/>
     <item drawable="ding_talk"/>
     <item drawable="translator"/>
-    <item drawable="edge"/>
 
     <category title="工具学习" />
+    <item drawable="___qq_browser"/>
+    <item drawable="es_file_explorer"/>
+    <item drawable="baidu_input"/>
+    <item drawable="chrome"/>
+    <item drawable="apkpure"/>
+    <item drawable="ice_box"/>
+    <item drawable="firefox"/>
+    <item drawable="magisk_manager"/>
+    <item drawable="china_telecom_netdisk"/>
+    <item drawable="wifi_master_key"/>
+    <item drawable="ssr"/>
+    <item drawable="quark"/>
     <item drawable="cool___apk"/>
     <item drawable="qianji"/>
     <item drawable="xuexi"/>
     <item drawable="chaoxing"/>
     <item drawable="clashr_for_android"/>
     <item drawable="___uc_mobile"/>
+    <item drawable="edge"/>
 
     <category title="生活服务" />
+    <item drawable="ailabs"/>
+    <item drawable="cainiao"/>
+    <item drawable="umetrip"/>
+    <item drawable="amap"/>
+    <item drawable="meituan_takeoutnew"/>
+    <item drawable="china_telecom"/>
+    <item drawable="unicom"/>
+    <item drawable="paypal"/>
+    <item drawable="ele_me"/>
     <item drawable="keep"/>
     <item drawable="love_nanning" />
     <item drawable="gzmetro"/>
@@ -326,12 +432,15 @@
     <item drawable="ctrip"/>
 
     <category title="摄影摄像" />
+    <item drawable="___vsco"/>
     <item drawable="gallery"/>
     <item drawable="camera"/>
     <item drawable="___dji_g__o_4"/>
     <item drawable="instagram"/>
 
     <category title="影音娱乐" />
+    <item drawable="iqiyi"/>
+    <item drawable="taptap"/>
     <item drawable="___qq_live"/>
     <item drawable="___qq_music"/>
     <item drawable="apple_music"/>
@@ -360,6 +469,60 @@
     <item drawable="alipay"/>
     <item drawable="quick_pass"/>
     <item drawable="___jd_j__r"/>
+
+    <category title="Update 200903" />
+    <item drawable="umetrip"/>
+    <item drawable="ice_box"/>
+    <item drawable="firefox"/>
+    <item drawable="magisk_manager"/>
+    <item drawable="china_telecom_netdisk"/>
+    <item drawable="wifi_master_key"/>
+    <item drawable="taptap"/>
+    <item drawable="ssr"/>
+    <item drawable="quark"/>
+    <item drawable="amap"/>
+    <item drawable="meituan_takeoutnew"/>
+    <item drawable="baidu_netdisk"/>
+    <item drawable="china_telecom"/>
+    <item drawable="unicom"/>
+    <item drawable="g_translate"/>
+    <item drawable="scanscan"/>
+    <item drawable="paypal"/>
+    <item drawable="word"/>
+    <item drawable="powerpoint"/>
+    <item drawable="excel"/>
+    <item drawable="onenote"/>
+    <item drawable="onedrive"/>
+    <item drawable="google_play_store"/>
+    <item drawable="adobe_acrobat"/>
+    <item drawable="clock"/>
+    <item drawable="calendar"/>
+    <item drawable="ele_me"/>
+
+    <category title="Update 200901" />
+    <item drawable="game_center"/>
+    <item drawable="messages"/>
+    <item drawable="translator"/>
+    <item drawable="samsung_flow"/>
+    <item drawable="tips"/>
+    <item drawable="gallery"/>
+    <item drawable="camera"/>
+    <item drawable="___dji_g__o_4"/>
+    <item drawable="edge"/>
+    <item drawable="clashr_for_android"/>
+    <item drawable="instagram"/>
+    <item drawable="mail"/>
+    <item drawable="keyboard"/>
+    <item drawable="breeno_voice"/>
+    <item drawable="gzmetro"/>
+    <item drawable="cmcc"/>
+    <item drawable="weather"/>
+    <item drawable="___icbc"/>
+    <item drawable="___ccb"/>
+    <item drawable="___uc_mobile"/>
+    <item drawable="___qq_pvp_gamehelper"/>
+    <item drawable="kuaishou"/>
+    <item drawable="ctrip"/>
 
     <category title="Update 200831" />
     <item drawable="feedback"/>

@@ -15,6 +15,9 @@
         <item>we__chat</item>
         <item>___qq_music</item>
         <item>netease_cloud_music</item>
+        <item>amap</item>
+        <item>wallet</item>
+        <item>___qq_pvp</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
